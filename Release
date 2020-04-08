@@ -1,0 +1,8 @@
+Origin: Amachik's repo
+Label: Amachik's repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Compatible with ios 13!
