@@ -1,0 +1,32 @@
+Package: com.amachi.vibrovol
+Version: 1.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: amachik
+Installed-Size: 368
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13)
+Filename: ./debs/com.amachi.vibrovol_1.1-3+debug_iphoneos-arm.deb
+Size: 27164
+MD5sum: 1cb8ca6a91120675586cf88e7802c347
+SHA1: 3a9e40c260c15ebd02ff9464062cc260dc96e2b8
+SHA256: cf1d58369ecd0b8449281d23d7538314617d4a44e900c3c968b63a0b4253aa94
+Section: Tweaks
+Description: Haptic volume buttons!! Compatible with ios 13. SETTINGS: U can adjust vibration in settings. [LOW/MEDIUM/HARD]
+Author: amachik
+Name: VibroVol
+
+Package: com.amachi.vibrovol
+Version: 1.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: amachik
+Installed-Size: 368
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13)
+Filename: ./debs/com.amachi.vibrovol_1.1-4+debug_iphoneos-arm.deb
+Size: 27168
+MD5sum: ab0057ac25e574c166c7813389e60d85
+SHA1: 1355ead9274002b9dfeb84c7580784f54d27d7ad
+SHA256: b4b4a0af19ed491395ee963b776aa2c216ccebb503f2f1089f8589fb90b1a50c
+Section: Tweaks
+Description: Haptic volume buttons!!! Compatible with ios 13. SETTINGS: U can adjust vibration in settings. [LOW/MEDIUM/HARD]
+Author: amachik
+Name: VibroVol
+
