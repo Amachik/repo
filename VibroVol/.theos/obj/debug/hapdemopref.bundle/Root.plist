@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>VibroVol</string>
+		</dict>
+		
+        <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>defaults</key>
+			<string>com.amachi.pref</string>
+			<key>key</key>
+			<string>enabled</string>
+		
+		</dict>
+
+	    <dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>saveTapped</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict> 
+
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Vibration Settings</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>default</key>
+			<string>1</string>
+			<key>defaults</key>
+			<string>com.amachi.pref</string>
+			<key>key</key>
+			<string>feedbackStyle</string>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+				
+			</array>
+			<key>validTitles</key>
+			<array>
+				<string>LIGHT</string>
+				<string>MEDIUM</string>
+				<string>HARD</string>
+				<string>NONE</string>
+				
+			</array>
+			<key>alignment</key>
+			<string>1</string>
+			<key>PostNotification</key>
+			<string>com.amachi.hap/ReloadPrefs</string>
+		</dict>
+
+
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Contact Me</string>
+		</dict> 
+
+    
+
+	
+
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>openTwitter</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Twitter - @vondrck</string>
+		</dict>
+		
+		
+
+
+        <dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Open my GitHub</string>
+			<key>action</key>
+			<string>SendEmail</string>
+			<key>icon</key>
+			<string>github.png</string>
+		</dict>
+        <dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Donate - Buy me a coffee ☕️</string>
+			<key>icon</key>
+			<string>coffe.png</string>			
+			<key>action</key>
+			<string>PayPal</string>
+			
+		</dict>
+
+
+        <dict>
+        <key>cell</key>
+	    <string>PSGroupCell</string>
+		<key>label</key>
+	    <string>Also check her Twitter. She is really awesome. Helped me out a lot.</string>
+		</dict>       
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>openTwitterHer</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Twitter - @Litteeen</string>
+		</dict>
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>VibroVol - by Amachik</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>VibroVol</string>
+</dict>
+</plist>

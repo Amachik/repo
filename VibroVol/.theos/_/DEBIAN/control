@@ -1,0 +1,10 @@
+Package: com.amachi.vibrovol
+Name: VibroVol
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13)
+Architecture: iphoneos-arm
+Description: Haptic volume buttons!
+Maintainer: amachik
+Author: amachik
+Section: Tweaks
+Version: 1.1.1-2+debug
+Installed-Size: 368
