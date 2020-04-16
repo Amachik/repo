@@ -30,3 +30,19 @@ Description: Haptic volume buttons!!! Compatible with ios 13. SETTINGS: U can ad
 Author: amachik
 Name: VibroVol
 
+Package: com.amachi.vibrovol
+Version: 1.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: amachik
+Installed-Size: 368
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13)
+Filename: ./debs/com.amachi.vibrovol_1.1-6+debug_iphoneos-arm.deb
+Size: 27182
+MD5sum: 8cf8bf7fcc5b7898593eebc975da4ae1
+SHA1: 8dfb36b61dd29623f9a82a5f4c8616a98de24662
+SHA256: ee1aa6836995e7470623f820dc0e391f2431f7a7cbd1e51a7f72a8af01cda2b3
+Section: Tweaks
+Description: Add vibrations to your volume. Compatible with ios 13. You can also adjust vibration hardness in settings. '\n' This is my first tweak so far. Spread Love!
+Author: amachik
+Name: VibroVol
+
